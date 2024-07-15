@@ -4,6 +4,8 @@
 
 using namespace std;
 
+//disjoint set union by rank
+
 class DisjointSet{
     parentblic:
     vector<int> rank;
